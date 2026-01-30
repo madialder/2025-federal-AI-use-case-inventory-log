@@ -11,7 +11,7 @@ The following is a list of the inventory status at non-DOD Chief Financial Offic
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | 1 |
 | Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ? | - |
 | Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | 2 |
-| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ❌ | 0 |
+| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ❌ | - |
 | Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | 2 |
 | Housing and Urban Development (HUD) | https://www.hud.gov/ai | ❌ | - |
 | Interior (DOI) | https://www.doi.gov/ai/use-case-inventory | ✅ | 2 |
