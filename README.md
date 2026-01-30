@@ -1,11 +1,11 @@
 # 2025 federal AI use case inventories
 This is a repository to track the publication of federal agency AI use case inventories for 2025.
 
-The following is a list of the inventory status at non-DOD Chief Financial Officer Act agencies. Agencies with more than one file uploaded both a regular inventory as well as one labled "commercial" or "consolidated" use cases.
+The following is a list of the inventory status at non-DOD Chief Financial Officer Act agencies. Agencies with more than one file uploaded both a regular inventory as well as one labeled "commercial" or "consolidated" use cases.
 
 # 2025 List of AI Inventories
 
-| Agency | Link to page or inventory | 2025 Avail? | No. of downloaded files |
+| Agency | Link to page or inventory | 2025 Avail? | Downloaded files |
 |--------|---------------------------|-------------|------------------|
 | Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | 2 |
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | 1 |
