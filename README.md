@@ -1,7 +1,7 @@
 # 2025 Federal AI Use Case Inventories
 This is a repository to track the publication of federal agency AI use case inventories for 2025.
 
-The following is a list of the inventory status at non-DOD Chief Financial Officer Act agencies. Agencies with more than one file uploaded both a regular inventory as well as one labeled "commercial" or "consolidated" use cases.
+The following is a list of the status of the inventory at non-DOD Chief Financial Officer Act agencies. Those with more than one file in "Downloaded Files" had both a regular inventory as well as one labeled "commercial" or "consolidated" use cases.
 
 ## Inventory Status
 
