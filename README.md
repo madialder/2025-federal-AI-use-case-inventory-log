@@ -21,7 +21,7 @@ The following is a list of the status of the inventory at non-DOD Chief Financia
 | Transportation (DOT) | https://data.transportation.gov/Administrative/Department-of-Transportation-Inventory-of-Artifici/anj8-k6f5/about_data | ✅ | 1 | 1/30/2026 |
 | Treasury | https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/treasury-and-artificial-intelligence | ✅ | 2 | 1/30/2026 |
 | Veterans Affairs (VA) | https://department.va.gov/ai/ai-use-case-inventory/ | ✅ | 2 | 1/30/2026 |
-| Environmental Protection Agency (EPA) | https://www.epa.gov/data/ai-use-case-inventory | ❌ | - | |
+| Environmental Protection Agency (EPA) | https://www.epa.gov/data/ai-use-case-inventory | ❌ | - | - |
 | General Services Administration (GSA) | https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence | ❌ | - | - |
 | NASA | https://www.nasa.gov/ai-inventory/ | ✅ | 1 | 1/30/2026 |
 | National Science Foundation (NSF) | https://www.nsf.gov/policies/ai | ✅ | 1 | 1/30/2026 |
