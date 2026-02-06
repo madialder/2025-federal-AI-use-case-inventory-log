@@ -11,9 +11,9 @@ The following is a list of the status of the inventory at non-DOD Chief Financia
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | 1 | 1/30/2026 |
 | Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ? | - | - |
 | Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | 2 | 1/30/2026 |
-| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ❌ | - | - |
+| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | 2 | 1/30/2026 |
 | Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | 2 | 1/30/2026 |
-| Housing and Urban Development (HUD) | https://www.hud.gov/ai | ❌ | - | - |
+| Housing and Urban Development (HUD) | https://www.hud.gov/ai | ✅ | 2 | 2/6/2026 |
 | Interior (DOI) | https://www.doi.gov/ai/use-case-inventory | ✅ | 2 | 1/30/2026 |
 | Justice (DOJ) | https://www.justice.gov/ai/ai-inventory | ✅ | 1 | 1/30/2026 |
 | Labor (DOL) | https://www.dol.gov/agencies/oasam/centers-offices/ocio/ai-inventory | ✅ | 2 | 1/30/2026 |
