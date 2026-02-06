@@ -1,31 +1,48 @@
-# 2025 Federal AI Use Case Inventories
-This is a repository to track the publication of federal agency AI use case inventories for 2025.
+# 2025 Federal AI Use Case Inventory Tracker
+This is a repository to monitor the publication of federal agency AI use case inventories for 2025. Agencies began posting their documents Jan. 28, 2026, and we at FedScoop are following them closely.  
 
-The following is a list of the status of the inventory at non-DOD Chief Financial Officer Act agencies. Those with more than one file in "Downloaded Files" had both a regular inventory as well as one labeled "commercial" or "consolidated" use cases.
+## 📋 Inventory Status
+The following table is an accounting the inventory status at non-DOD Chief Financial Officer Act agencies. 
 
-## Inventory Status
+| Agency | AI page or inventory | 2025 avail? | Commercial file? | Date first downloaded |
+|--------|--------------|-------------|-----------|------------|
+| Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | ✅ | 1/30/2026 |
+| Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ❌ | 1/30/2026 |
+| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | 🤷🏻‍♀️ | ❌ | - |
+| Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | ✅ | 1/30/2026 |
+| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | ✅ | 1/30/2026 |
+| Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | ✅ | 1/30/2026 |
+| Housing and Urban Development (HUD) | https://www.hud.gov/ai | ✅ | ✅ | 2/6/2026 |
+| Interior (DOI) | https://www.doi.gov/ai/use-case-inventory | ✅ | ✅ | 1/30/2026 |
+| Justice (DOJ) | https://www.justice.gov/ai/ai-inventory | ✅ | ❌ | 1/30/2026 |
+| Labor (DOL) | https://www.dol.gov/agencies/oasam/centers-offices/ocio/ai-inventory | ✅ | ✅ | 1/30/2026 |
+| State (DOS) | https://www.state.gov/department-of-state-2025-ai-inventory/ | ✅ | ✅ | 1/30/2026 |
+| Transportation (DOT) | https://data.transportation.gov/Administrative/Department-of-Transportation-Inventory-of-Artifici/anj8-k6f5/about_data | ✅ | ❌ | 1/30/2026 |
+| Treasury | https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/treasury-and-artificial-intelligence | ✅ | ✅ | 1/30/2026 |
+| Veterans Affairs (VA) | https://department.va.gov/ai/ai-use-case-inventory/ | ✅ | ✅ | 1/30/2026 |
+| Environmental Protection Agency (EPA) | https://www.epa.gov/data/ai-use-case-inventory | ❌ | ❌ | - |
+| General Services Administration (GSA) | https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence | ❌ | ❌ | - |
+| NASA | https://www.nasa.gov/ai-inventory/ | ✅ | ❌ | 1/30/2026 |
+| National Science Foundation (NSF) | https://www.nsf.gov/policies/ai | ✅ | ❌ | 1/30/2026 |
+| Nuclear Regulatory Commission (NRC) | https://www.nrc.gov/ai/internally-focused | ✅ | ❌ | 1/30/2026 |
+| Office of Personnel Management (OPM) | https://www.opm.gov/ai/ | ✅ | ❌ | 1/30/2026 |
+| Small Business Administration (SBA) | https://www.sba.gov/about-sba/open-government/ai-inventory#sba039s-use-of-artificial-intelligence | ❌ | ❌ | - |
+| Social Security Administration (SSA) | https://www.ssa.gov/ai/ | ❌ | ❌ | - |
 
-| Agency | AI page or inventory | 2025 Avail? | No. of files | Date downloaded |
-|--------|---------------------------|-------------|-----------|------------|
-| Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | 2 | 1/30/2026 |
-| Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | 1 | 1/30/2026 |
-| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ? | - | - |
-| Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | 2 | 1/30/2026 |
-| Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | 2 | 1/30/2026 |
-| Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | 2 | 1/30/2026 |
-| Housing and Urban Development (HUD) | https://www.hud.gov/ai | ✅ | 2 | 2/6/2026 |
-| Interior (DOI) | https://www.doi.gov/ai/use-case-inventory | ✅ | 2 | 1/30/2026 |
-| Justice (DOJ) | https://www.justice.gov/ai/ai-inventory | ✅ | 1 | 1/30/2026 |
-| Labor (DOL) | https://www.dol.gov/agencies/oasam/centers-offices/ocio/ai-inventory | ✅ | 2 | 1/30/2026 |
-| State (DOS) | https://www.state.gov/department-of-state-2025-ai-inventory/ | ✅ | 2 | 1/30/2026 |
-| Transportation (DOT) | https://data.transportation.gov/Administrative/Department-of-Transportation-Inventory-of-Artifici/anj8-k6f5/about_data | ✅ | 1 | 1/30/2026 |
-| Treasury | https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/treasury-and-artificial-intelligence | ✅ | 2 | 1/30/2026 |
-| Veterans Affairs (VA) | https://department.va.gov/ai/ai-use-case-inventory/ | ✅ | 2 | 1/30/2026 |
-| Environmental Protection Agency (EPA) | https://www.epa.gov/data/ai-use-case-inventory | ❌ | - | - |
-| General Services Administration (GSA) | https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence | ❌ | - | - |
-| NASA | https://www.nasa.gov/ai-inventory/ | ✅ | 1 | 1/30/2026 |
-| National Science Foundation (NSF) | https://www.nsf.gov/policies/ai | ✅ | 1 | 1/30/2026 |
-| Nuclear Regulatory Commission (NRC) | https://www.nrc.gov/ai/internally-focused | ✅ | 1 | 1/30/2026 |
-| Office of Personnel Management (OPM) | https://www.opm.gov/ai/ | ✅ | 1 | 1/30/2026 |
-| Small Business Administration (SBA) | https://www.sba.gov/about-sba/open-government/ai-inventory#sba039s-use-of-artificial-intelligence | ❌ | - | - |
-| Social Security Administration (SSA) | https://www.ssa.gov/ai/ | ❌ | - | - |
+### 🔎 What's in this table?
+Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai but sometimes they're published at other urls. The links reflect either where the inventory was posted or where I believe it will be posted.
+
+If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌ and if it's not clear whether inventory was updated, it's a 🤷🏻‍♀️.
+
+💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventory with common uses across the agency in addition to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
+
+## 🗂️ File guide
+All of the downloaded files are available in the "2025 inventories" folder. For organization, the naming convention is a combination of the agency name, the file version, and the original file name. 
+
+    Here's how the naming convention works using /DHS 260130 "2025 DHS AI Use Case Inventory_".xlsx/ as an example:
+        ➡️ DHS = The Department of Homeland Security
+        ➡️ 260130 = The date I downloaded the file, which was January 30, 2026
+        ➡️ "2025 DHS AI Use Case Inventory_" = The original name of the file when I downloaded it from the website. 
+        ➡️ .xlsx = The file type!
+
+💡 NOTE: Having the original file name is helpful for archival purposes, but I recommend creating a copy and deleting that part if you're working with the data.
