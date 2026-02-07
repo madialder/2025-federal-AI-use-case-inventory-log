@@ -34,7 +34,7 @@ Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai
 
 If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌ and if it's not clear whether inventory was updated, it's a 🤷🏻‍♀️.
 
-💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventory with common uses across the agency in addition to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
+💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventories with common uses across the agency *in addition* to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
 
 ## 🗂️ File guide
 All of the downloaded files are available in the "2025 inventories" folder. The standard inventories are in the main folder and the newly minted "commercial" inventories are in their own subfolder.
