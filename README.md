@@ -4,7 +4,7 @@ This is a repository to monitor the publication of federal agency AI use case in
 ## 📋 Inventory status
 The following table is an accounting the inventory status at non-DOD Chief Financial Officer Act agencies. 
 
-| Agency | AI page or inventory | 2025 avail? | Commercial file? |
+| Agency | AI page or inventory | 2025 posted | Commercial inventory |
 |--------|--------------|-------------|-----------|
 | Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | ✅ |
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ❌ |
@@ -32,9 +32,9 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 ## 🔎 What's in this table?
 Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai but sometimes they're published at other urls. The links reflect either where the inventory was posted or where I believe it will be posted.
 
-If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌.
+If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 posted" column. If I couldn't find it, it's an ❌.
 
-💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventories with common uses across the agency *in addition* to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
+💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventories with common uses across the agency *in addition* to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial inventory" column and agencies that didn't have an ❌.
 
 ## 🗂️ File guide
 All of the downloaded files are available in the "2025 inventories" folder. The standard inventories are in the main folder and the newly minted "commercial" inventories are in their own subfolder.
