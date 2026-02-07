@@ -8,7 +8,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 |--------|--------------|-------------|-----------|------------|
 | Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | ✅ | 1/30/2026 |
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ❌ | 1/30/2026 |
-| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | 🤷🏻‍♀️ | ❌ | - |
+| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ❌ | ❌ | - |
 | Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | ✅ | 1/30/2026 |
 | Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | ✅ | 1/30/2026 |
 | Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | ✅ | 1/30/2026 |
@@ -32,7 +32,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 ## 🔎 What's in this table?
 Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai but sometimes they're published at other urls. The links reflect either where the inventory was posted or where I believe it will be posted.
 
-If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌ and if it's not clear whether inventory was updated, it's a 🤷🏻‍♀️.
+If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌.
 
 💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventories with common uses across the agency *in addition* to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
 
