@@ -29,7 +29,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 | Small Business Administration (SBA) | https://www.sba.gov/about-sba/open-government/ai-inventory#sba039s-use-of-artificial-intelligence | ❌ | ❌ | - |
 | Social Security Administration (SSA) | https://www.ssa.gov/ai/ | ❌ | ❌ | - |
 
-### 🔎 What's in this table?
+## 🔎 What's in this table?
 Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai but sometimes they're published at other urls. The links reflect either where the inventory was posted or where I believe it will be posted.
 
 If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 avail?" column. If I couldn't find it, it's an ❌ and if it's not clear whether inventory was updated, it's a 🤷🏻‍♀️.
@@ -39,10 +39,13 @@ If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 
 ## 🗂️ File guide
 All of the downloaded files are available in the "2025 inventories" folder. For organization, the naming convention is a combination of the agency name, the file version, and the original file name. 
 
-    Here's how the naming convention works using /DHS 260130 "2025 DHS AI Use Case Inventory_".xlsx/ as an example:
+    Here's how the naming convention works using //DHS 260130 "2025 DHS AI Use Case Inventory_".xlsx// as an example:
+
         ➡️ DHS = The Department of Homeland Security
         ➡️ 260130 = The date I downloaded the file, which was January 30, 2026
         ➡️ "2025 DHS AI Use Case Inventory_" = The original name of the file when I downloaded it from the website. 
         ➡️ .xlsx = The file type!
 
-💡 NOTE: Having the original file name is helpful for archival purposes, but I recommend creating a copy and deleting that part if you're working with the data.
+💡 NOTE: Having the original file name is helpful for my archival purposes, but shorter file names are better for analysis! I recommend deleting that part or changing the name entirely if you download, particularly if you're planning to work with multiple files.
+
+
