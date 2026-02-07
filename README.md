@@ -1,7 +1,7 @@
 # 2025 Federal AI Use Case Inventory Tracker
 This is a repository to monitor the publication of federal agency AI use case inventories for 2025. Agencies began posting their documents Jan. 28, 2026, and we at FedScoop are following them closely.  
 
-## 📋 Inventory Status
+## 📋 Inventory status
 The following table is an accounting the inventory status at non-DOD Chief Financial Officer Act agencies. 
 
 | Agency | AI page or inventory | 2025 avail? | Commercial file? | Date first downloaded |
@@ -37,7 +37,9 @@ If I was able to locate the 2025 inventory, that agency gets a ✅ in the "2025 
 💡 NOTE: This year, agencies began posting "commercial" or "consolidated" use case inventory with common uses across the agency in addition to their standard annual posting. Agencies that have posted such a file, have a ✅ in the "Commercial file?" column and agencies that didn't have an ❌.
 
 ## 🗂️ File guide
-All of the downloaded files are available in the "2025 inventories" folder. For organization, the naming convention is a combination of the agency name, the file version, and the original file name. 
+All of the downloaded files are available in the "2025 inventories" folder. The standard inventories are in the main folder and the newly minted "commercial" inventories are in their own subfolder.
+
+ For organization, the naming convention is a combination of the agency name, the file version, and the original file name. 
 
     Here's how the naming convention works using //DHS 260130 "2025 DHS AI Use Case Inventory_".xlsx// as an example:
 
@@ -46,6 +48,8 @@ All of the downloaded files are available in the "2025 inventories" folder. For 
         ➡️ "2025 DHS AI Use Case Inventory_" = The original name of the file when I downloaded it from the website. 
         ➡️ .xlsx = The file type!
 
-💡 NOTE: Having the original file name is helpful for my archival purposes, but shorter file names are better for analysis! I recommend deleting that part or changing the name entirely if you download, particularly if you're planning to work with multiple files.
+The commercial inventories are the same, but have a "c" following the agency name.
 
+💡 TIP: Having the original file name is helpful for archival purposes, but shorter file names are always better for analysis! I recommend deleting that part or changing the name entirely if you download, particularly if you're planning to work with multiple files. 
 
+❗ IMPORTANT NOTE: There may be more than one file for each agency if they update their inventory. Please check the date in the file name to ensure that you're looking at the most-up-to date information. The agency abbreviation is listed first to group any files related to that agency together. 
