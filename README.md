@@ -8,7 +8,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 |--------|--------------|-------------|-----------|
 | Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | ✅ |
 | Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ❌ |
-| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ❌ | ❌ |
+| Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ✅ | ❌ |
 | Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | ✅ |
 | Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | ✅ |
 | Homeland Security (DHS) | https://www.dhs.gov/publication/ai-use-case-inventory-library | ✅ | ✅ |
