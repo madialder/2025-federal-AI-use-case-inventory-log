@@ -1,5 +1,5 @@
 # 2025 Federal AI Use Case Inventory Tracker
-This is a repository to monitor the publication of federal agency AI use case inventories for 2025. Agencies began posting their documents Jan. 28, 2026, and we at FedScoop are following them closely.  
+This is a repository to monitor the publication of federal agency AI use case inventories for 2025. Agencies began posting their documents Jan. 28, 2026. This repository will be regularly updated with new publications.  
 
 ## 📋 Inventory status
 The following table is an accounting the inventory status at non-DOD Chief Financial Officer Act agencies. 
@@ -53,3 +53,6 @@ The commercial inventories are the same, but have a "c" following the agency nam
 💡 TIP: Having the original file name is helpful for archival purposes, but shorter file names are always better for analysis! I recommend deleting that part or changing the name entirely if you download, particularly if you're planning to work with multiple files. 
 
 ❗ IMPORTANT NOTE: There may be more than one file for each agency if they update their inventory. Please check the date in the file name to ensure that you're looking at the most-up-to date information. The agency abbreviation is listed first to group any files related to that agency together. 
+
+## 👤 About the author
+This repository is monitored by me, Madison Alder. I cover government tech for FedScoop and have been monitoring this process for a few years. If you have questions, feel free to contact me at madison.alder (at) fedscoop.com.
