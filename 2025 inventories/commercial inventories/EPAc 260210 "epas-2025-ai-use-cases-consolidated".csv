@@ -1,0 +1,21 @@
+AI Use Case,Commercial Examples,Agency Use (Y/N)?,Name of Commercial Product or Service Used,Estimated # of Licenses/Users
+Scheduling internal-to-government meetings or appointments or setting reminders using AI.,"Calendly, Reclaim.AI",N,,
+Logging and analyzing time spent on tasks using AI-powered time management tools.,"Timely, Asana",Y,Microsoft Viva,"10,000-50,000"
+"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.","Otter.ai, Evernote, Fireflies",Y,"Microsoft365 Copilot, Azure Open AI","10,000-50,000"
+Prioritizing and categorizing incoming emails using AI.,"SaneBox, OpenPaas",Y,Microsoft365 Copilot,1-100
+"Editing images, videos, or other public affairs materials using AI.","Adobe Firefly, Instagram Edits",N,,
+Scheduling and managing social media posts using AI.,"ContentStudio, Sprout Social",N,,
+"Generating first drafts of documents, briefing, or communication materials using AI.","ChatGPT, Gemini",Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+ Improving the quality of written communications using AI tools.,"Grammarly, ProWritingAid",Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Summarizing the key points of a lengthy report using AI.,"ChatGPT, Perplexity",Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Creating visual representations of data sets for reports or presentations using AI.,"Tableau Agent, Julius AI",Y,"Azure OpenAI, Microsoft365 Copilot, Qlik Predict","10,000-50,000"
+Using AI-assisted tools in word processors.,"Grammarly, Microsoft Copilot",Y,Microsoft365 Copilot,1-100
+Generating code using AI.,"Poolside, GitHub Copilot",Y,"GitHub Copilot, Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Searching for agency information using a knowledge retrieval system.,"ChatGPT, Gemini",Y,"Relativity, Microsoft365 Copilot, Google Search","10,000-50,000"
+Identifying and cataloging items in a storage room using AI-driven image recognition.,Google Lens,N,,
+"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI","Crowdstrike Falcon, Microsoft Defender",Y,"Microsoft Purview, Microsoft Defender",
+Managing and prioritizing internal service or help desk tickets using AI.,"Supportbench, ServiceDesk Plus",Y,Servicenow Virtual Agent,"10,000-50,000"
+Curating news articles and updates based on user preferences using AI.,"MediaViz AI, Google News Brief",N,,
+Planning travel routes using AI-driven map applications.,"Google Maps, Apple Maps",Y,"Google Maps, Apple Maps","10,000-50,000"
+Finding and booking travel accommodations using AI-powered platforms.,"SAP Concur, Navan",Y,SAP Concur,"10,000-50,000"
+Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,"Apple iPhone, Google Pixel",N,Apple iPhone,1001-5000
