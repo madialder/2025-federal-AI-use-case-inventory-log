@@ -7,7 +7,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 | Agency | AI page or inventory | 2025 posted | Commercial inventory |
 |--------|--------------|-------------|-----------|
 | Agriculture (USDA) | https://www.usda.gov/ai/inventory | ✅ | ✅ |
-| Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ❌ |
+| Commerce (DOC) | https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory | ✅ | ✅ |
 | Education (ED) | https://www.ed.gov/about/ed-overview/artificial-intelligence-ai-guidance | ✅ | ❌ |
 | Energy (DOE) | https://www.energy.gov/cet/doe-ai-use-case-inventory | ✅ | ✅ |
 | Health and Human Services (HHS) | https://www.hhs.gov/programs/topic-sites/ai/use-cases/index.html | ✅ | ✅ |
@@ -27,7 +27,7 @@ The following table is an accounting the inventory status at non-DOD Chief Finan
 | Nuclear Regulatory Commission (NRC) | https://www.nrc.gov/ai/internally-focused | ✅ | ❌ |
 | Office of Personnel Management (OPM) | https://www.opm.gov/ai/ | ✅ | ❌ |
 | Small Business Administration (SBA) | https://www.sba.gov/about-sba/open-government/ai-inventory#sba039s-use-of-artificial-intelligence | ❌ | ❌ |
-| Social Security Administration (SSA) | https://www.ssa.gov/ai/ | ❌ | ❌ |
+| Social Security Administration (SSA) | https://www.ssa.gov/ai/ | ✅ | ❌ |
 
 ## 🔎 What's in this table?
 Per guidance, agency inventory postings should be located at [AgencyName.gov]/ai but sometimes they're published at other urls. The links reflect either where the inventory was posted or where I believe it will be posted.
