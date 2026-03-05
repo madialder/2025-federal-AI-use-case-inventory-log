@@ -55,4 +55,4 @@ The commercial inventories are the same, but have a "c" following the agency nam
 ❗ IMPORTANT NOTE: There may be more than one file for each agency if they update their inventory. Please check the date in the file name to ensure that you're looking at the most-up-to date information. The agency abbreviation is listed first to group any files related to that agency together. 
 
 ## 👤 About the author
-This repository is monitored by me, Madison Alder. I cover government tech for FedScoop and have been monitoring this process for a few years. If you have questions, feel free to contact me at madison.alder (at) fedscoop.com.
+This repository is monitored by me, Madison Alder. I cover government tech for FedScoop and have been following this process for a few years. If you have questions, feel free to contact me at madison.alder (at) fedscoop.com.
