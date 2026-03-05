@@ -41,11 +41,11 @@ All of the downloaded files are available in the "2025 inventories" folder. The 
 
  For organization, the naming convention is a combination of the agency name, the file version, and the original file name. 
 
-    Here's how the naming convention works using //DHS 260130 "2025 DHS AI Use Case Inventory_".xlsx// as an example:
+    Here's how the naming convention works using //DHS 260130 2025 DHS AI Use Case Inventory_.xlsx// as an example:
 
         ➡️ DHS = The Department of Homeland Security
         ➡️ 260130 = The date I downloaded the file, which was January 30, 2026
-        ➡️ "2025 DHS AI Use Case Inventory_" = The original name of the file when I downloaded it from the website. 
+        ➡️ 2025 DHS AI Use Case Inventory_ = The original name of the file when I downloaded it from the website. 
         ➡️ .xlsx = The file type!
 
 The commercial inventories are the same, but have a "c" following the agency name.
